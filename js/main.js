@@ -35,6 +35,8 @@ const updateResult = () => {
 
 }
 
+updateResult()
+
 //const updateResult = 
 
 // 4. Call the function "updateResult" on the page load.
